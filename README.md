@@ -15,6 +15,7 @@ A simple React application that fetches random user data from the Random User Ge
 > Includes unit tests for components and hooks.
 
 # Project Structure
+```
 user-profile-viewer/
 ├── src/
 │   ├── api/                # API-related logic
@@ -31,7 +32,7 @@ user-profile-viewer/
 │   └── index.css           # Global styles
 ├── package.json            # Project configuration
 └── README.md               # Project documentation
-
+```
 
 # Installation
 # Prerequisites
